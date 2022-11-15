@@ -35,4 +35,3 @@
 [Дизайн](https://www.figma.com/file/3UYNEY25JumdkCOmH0MdEP/Karpov-GitHub-Users?node-id=0%3A1)
 
 [GitHub API](https://docs.github.com/en/rest/users)
-# mini-project
